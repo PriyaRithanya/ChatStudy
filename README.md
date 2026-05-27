@@ -77,6 +77,7 @@ Client-server chat applications are foundational to real-time communication over
 ```
 Developed by: PRIYARITHANYA M
 Reg no: 212225240108
+
 ```
 <img width="732" height="803" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/212bc6c6-37e1-4b66-87cf-d9aa3ec0ad4e" />
 
